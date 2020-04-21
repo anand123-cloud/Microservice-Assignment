@@ -1,0 +1,5 @@
+vendorid,name,desc,price,type
+v001,veg meal,"Rice,Curry",100,veg
+v001,NonVeg Meal,"Chicken,Rice",140,nonveg
+v001,Veg Biryani,"Rice,Curry",120,veg
+v001,Chicken Biryani,"Chicken,Rice",180,nonveg
